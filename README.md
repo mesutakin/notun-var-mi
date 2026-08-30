@@ -66,11 +66,11 @@ A mobile version is also planned for future development.
 </p>
 
 <p align="center">
-  <img src="assests/share%20school.PNG" width="80%" alt="Share School">
+  <img src="assests/share-school.PNG" width="80%" alt="Share School">
 </p>
 
 <p align="center">
-  <img src="assests/share%20screen.PNG" width="80%" alt="Share Screen">
+  <img src="assests/share-screen.PNG" width="80%" alt="Share Screen">
 </p>
 
 ## 🔒 Source Code Availability
