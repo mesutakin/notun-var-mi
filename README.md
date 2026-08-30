@@ -61,7 +61,17 @@ A mobile version is also planned for future development.
 
 ## 📸 Project Preview
 
-Screenshots and visual previews will be added to this repository.
+<p align="center">
+  <img src="assests/index.PNG" width="80%" alt="Notun Var mı? Homepage">
+</p>
+
+<p align="center">
+  <img src="assests/share%20school.PNG" width="80%" alt="Share School">
+</p>
+
+<p align="center">
+  <img src="assests/share%20screen.PNG" width="80%" alt="Share Screen">
+</p>
 
 ## 🔒 Source Code Availability
 
